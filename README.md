@@ -1,16 +1,19 @@
-### Hi there 👋
+### Hi there 👋, I'm Sagar
 
-<!--
-**TheShade1551/TheShade1551** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 👀 "I am a passionate learner, committed to achieving goals and driven by the ambition to explore, inspire, and exchange knowledge with like-minded enthusiasts in the realm of coding."
+- 🌱 I’m currently learning C and JavaScript Basics
+- 📫 Reach me at matrix -@rj69420:matrix.org or on discord - Rishabh100 or on Twitter - @rishabh_9000
+- 📫 Reach me at sagarkanekar2004@gmail.com or on Linkedin - Sagar Kanekar
 
-Here are some ideas to get you started:
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+<h3 align="center"> Languages, Tools and Stats </h3>
+<p align="center"> 
+	<img src="https://img.icons8.com/color/512/c-programming.png" width="30"/>
+	<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/HTML5_Badge.svg/800px-HTML5_Badge.svg.png" width="30"/>
+	<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/2048px-CSS3_logo.svg.png" width="30"/>
+    <img src="https://img.icons8.com/ios-filled/50/fa314a/git.png" width="30"/>
+</p>
+
