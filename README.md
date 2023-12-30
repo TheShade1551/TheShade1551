@@ -2,7 +2,6 @@
 
 - 👀 "I am a passionate learner, committed to achieving goals and driven by the ambition to explore, inspire, and exchange knowledge with like-minded enthusiasts in the realm of coding."
 - 🌱 I’m currently learning C and JavaScript Basics
-- 📫 Reach me at matrix -@rj69420:matrix.org or on discord - Rishabh100 or on Twitter - @rishabh_9000
 - 📫 Reach me at sagarkanekar2004@gmail.com or on Linkedin - Sagar Kanekar
 
 </p>
