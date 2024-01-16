@@ -1,7 +1,7 @@
 ### Hi there 👋, I'm Sagar
 
 - 👀 "I am a passionate learner, committed to achieving goals and driven by the ambition to explore, inspire, and exchange knowledge with like-minded enthusiasts in the realm of coding."
-- 🌱 I’m currently learning C and JavaScript Basics
+- 🌱 I’m currently learning C and ML Basics
 - 📫 Reach me at sagarkanekar2004@gmail.com or on Linkedin - Sagar Kanekar
 
 </p>
